@@ -1,4 +1,4 @@
-package me.danics.firestoretest;
+package com.bha.fluttergram;
 
 import io.flutter.embedding.android.FlutterActivity;
 

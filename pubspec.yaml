@@ -1,5 +1,5 @@
-name: Fluttergram
-description: A new Flutter application.
+name: fluttergram
+description: An Instagram clone.
 version: 1.2.3+1
 
 environment:
